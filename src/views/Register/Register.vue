@@ -21,7 +21,7 @@
             placeholder="4～16个字符，区分大小写"
             @contentWatch="res => registerInfo.password = res"
         />
-        <LoginBtn btntext="注册" @TextClick="registerSubmit"></LoginBtn>
+        <LoginBtn btntext="注册并登录" @TextClick="registerSubmit"></LoginBtn>
     </div>
 </template>
 
