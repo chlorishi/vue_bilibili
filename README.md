@@ -11,10 +11,6 @@ vue路由采用history模式和懒加载的方式
 使用阿里妈妈矢量图标库（iconfont）
 
 
-## 项目已上线
-
-请用chrome的手机模式浏览
-http://47.104.98.236/vue-bilibili
 
 
 ## 项目大致效果动图
